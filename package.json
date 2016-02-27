@@ -1,0 +1,19 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "A realtime chat whit video and gifs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignaciocarvajal/chat-server.git"
+  },
+  "author": "Ignacio Carvajal D <ignaciocarvajald@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ignaciocarvajal/chat-server/issues"
+  },
+  "homepage": "https://github.com/ignaciocarvajal/chat-server#readme"
+}
